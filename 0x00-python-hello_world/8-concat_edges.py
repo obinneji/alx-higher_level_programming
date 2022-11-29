@@ -1,5 +1,5 @@
 #!/usr/bin/python3
 str = "Python is an interpreted, interactve, object-oriented-programming\
- language combines remarkable power with clear syntax"
+	language combines remarkable power with clear syntax"
 str = str[39:67] + str[-22:-17] str[:6]
 print(str)
