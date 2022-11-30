@@ -6,4 +6,4 @@ def islower(str):
         else:
             letter = 0
         print("{:c}".format(ord(str[i]) - letter), end="")
-print()
+    print()
